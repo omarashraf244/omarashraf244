@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @omarashraf244  
+- 👀 I’m interested in Systems Administration, Network Engineering, DevOps, and Database Management  
+- 🌱 I’m currently enrolled in the 9-Months Systems Administration Program at ITI (Intake 45)  
+- 💞️ I’m looking to collaborate on infrastructure projects, DevOps automation, and cloud-based deployments  
+- 📫 Reach me at omarashraf7528@gmail.com or on [LinkedIn](https://www.linkedin.com/in/omar-ashraf-930276246/)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I built a freelancing platform that uses machine learning for job categorization and CV parsing!
